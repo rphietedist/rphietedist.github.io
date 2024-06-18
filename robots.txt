@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rphietedist.github.io/sitemap
+Sitemap: https://rphietedist.github.io/app/sitemap
+Sitemap: https://rphietedist.github.io/assets/sitemap
+Sitemap: https://rphietedist.github.io/css/sitemap
+Sitemap: https://rphietedist.github.io/includes/sitemap
+Sitemap: https://rphietedist.github.io/item/sitemap
+Sitemap: https://rphietedist.github.io/src/sitemap
